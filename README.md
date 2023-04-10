@@ -1,5 +1,6 @@
+![banniereGitHub](https://user-images.githubusercontent.com/112662431/230803657-4345a043-3c73-4ad6-b4a7-6d8d3f697303.png)
 
-![Banniere-Ariane](https://user-images.githubusercontent.com/112662431/227735881-e5b506c5-6d0d-4361-b40e-2daef238635d.png)
+
 
 
 <h1 align="center">Hello 👋, I'm Ariane</h1>
