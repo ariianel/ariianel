@@ -1,9 +1,8 @@
-![banniereGitHub](https://user-images.githubusercontent.com/112662431/230803657-4345a043-3c73-4ad6-b4a7-6d8d3f697303.png)
+![banniereGitHub](https://user-images.githubusercontent.com/112662431/231279114-b8bd2bc0-945f-45aa-9ed7-e46ba2d656e8.png)
 
 
 
-
-<h1 align="center">Hello 👋, I'm Ariane</h1>
+<h1 align="center">Hello 👋</h1>
 <h3 align="center">Recherche active d'alternance en développement</h3>
 
 <p> ✨ C'est en 2021 que j'ai été introduite au monde de l'informatique, c'est grâce à Python que cette passion ainsi que cette reconversion professionnelle à commencé. Etudiante en première année de BUT Informatique à l'IUT de Paris-Rives-de-Seine. C'est par les différentes compétences que j'ai développé cette année, ainsi que ma grande motivation qui font de moi une excellente candidate ! ✨ </p>
