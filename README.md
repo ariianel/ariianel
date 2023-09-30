@@ -3,11 +3,9 @@
 
 
 <h1 align="center">Hello 👋</h1>
-<h3 align="center">Recherche active d'alternance en développement</h3>
+<h3 align="center">Etudiante BUT Informatique | Employée EDF </h3>
 
 <p> ✨C'est en 2021 que j'ai été introduite au monde de l'informatique, c'est grâce à Python que cette passion à commencé. 
-
-Je suis étudiante en deuxième année de BUT Informatique à l'IUT de Paris-Rives-de-Seine, en parallèle de mes études je suis en alternance chez EDF.
 
 Mon objectif à long terme est de devenir une développeuse expérimentée et de contribuer à des projets innovants dans le domaine du développement informatique.
 
