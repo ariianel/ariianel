@@ -13,7 +13,7 @@ N'hésitez pas à me contacter si vous souhaitez en savoir plus sur mes compéte
 
 - 📫 Comment me contacter ? **lucariane03@gmail.com**
 
-- ⚡ Fun fact **si je ne code pas, j'écoute de la musique et/ou regarde des animés !**
+- ⚡ Fun fact **si je ne code pas, je fais de la musique et/ou regarde des animés !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
