@@ -5,11 +5,11 @@
 <h1 align="center">Hello 👋</h1>
 <h3 align="center">Recherche active d'alternance en développement</h3>
 
-<p> ✨C'est en 2021 que j'ai été introduite au monde de l'informatique, c'est grâce à Python que cette passion ainsi que cette reconversion scolaire à commencé. 
+<p> ✨C'est en 2021 que j'ai été introduite au monde de l'informatique, c'est grâce à Python que cette passion à commencé. 
 
-Etudiante en première année de BUT Informatique à l'IUT de Paris-Rives-de-Seine, j'ai acquis de solides compétences en programmation et en développement d'applications ! J'ai notamment travaillée sur des projets qui m'ont permis de découvrir de nouvelles technologies et de développer mes compétences en matière de résolution de problèmes.
+Je suis étudiante en deuxième année de BUT Informatique à l'IUT de Paris-Rives-de-Seine, en parallèle de mes études je suis en alternance chez EDF.
 
-Mon objectif à long terme est de devenir une développeuse expérimentée et de contribuer à des projets innovants dans le domaine du développement informatique. Je suis donc toujours à la recherche d'une alternance pour apprendre au près de professionnels et me perfectionner dans ce domaine passionnant.
+Mon objectif à long terme est de devenir une développeuse expérimentée et de contribuer à des projets innovants dans le domaine du développement informatique.
 
 N'hésitez pas à me contacter si vous souhaitez en savoir plus sur mes compétences et mes projets actuels. ✨ </p>
 
