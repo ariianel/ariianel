@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Ariane Luc 🚀<br><br>🎓 Engineering student at EPITA, specializing in Cybersecurity.<br>💻 Holder of a BUT Informatique, with solid foundations in software development, systems, and networks.<br>🌍 Passionate about everything, really — from cybersecurity and software engineering to exploring new technologies, ideas, and creative challenges.<br>⚡ Curious by nature, I enjoy diving into different fields, learning fast, and connecting the dots between them.<br><br>📂 On my GitHub, you’ll find projects touching security, programming, and beyond.<br>🌱 Always learning, always building.
+Hi, I’m Ariane Luc 🚀<br><br>🎓 Engineering student at EPITA, specializing in Cybersecurity.<br>💻 Holder of a BUT Informatique, with solid foundations in software development, systems, and networks.<br>🌍 Passionate about everything, really — from cybersecurity and software engineering to exploring new technologies, ideas, and creative challenges.<br>⚡ Curious by nature, I enjoy diving into different fields, learning fast, and connecting the dots between them.<br><br><br>🌱 Always learning, always building.
 
 
 ## 🌐 Socials:
